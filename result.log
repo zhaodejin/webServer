@@ -1,0 +1,7 @@
+[WELCOME]: 2021-08-30 00:20:24:=== Start Logging ===
+[DEBUG]:   2021-08-30 00:20:24:this is a debug.
+[INFO]:    2021-08-30 00:20:24:this is a info.
+[ERROR]:   2021-08-30 00:20:24:this is a error!
+[WARNING]: 2021-08-30 00:20:24:this is a warning!
+[FATAL]:   2021-08-30 00:20:24:this is a fatal error!
+[ERROR]:   2021-08-30 00:20:24:this is a fatal error!
